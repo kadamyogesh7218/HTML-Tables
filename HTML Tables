@@ -39,7 +39,7 @@
                 <td rowspan="2">1:00PM</td>
                 <td>T-shirt</td>
                 <td>20</td>
-                <td rowspan="2">1300:00</td>
+                <td rowspan="2">1300.00</td>
             </tr>
             <tr>
             	<td>Notebook</td>
